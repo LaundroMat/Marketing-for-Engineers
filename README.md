@@ -94,6 +94,7 @@ You need to reach your potential users and validate your Persona & hypothesis. Y
 * [Pipl](https://pipl.com/) helps you to find information about email's owners.
 * The Buyer Persona Word Doc [Generator](http://www.makemypersona.com/) from HubSpot can help you to make the first hypothesis for your persona.
 * [TypeForm](https://www.typeform.com/) is an easy-to-use, mobile-optimized form-builder that's great for gathering online surveys. You also can use Google Forms for making online surveys.
+* [Kanochart.com](https://www.kanochart.com/) is a free tool to help you decide what features to build and in what order. It does so through the tried-and-tested Kano method for customer research. Basically, all you need to do is list the features you want to decide upon, and the tool will create and host the Kano survey for you, analyse the results and create your feature roadmap. 
 
 ## :mag_right: Market Research
 How is your product better than other solutions? What is unique about your side project, open-source tool or mobile app? What do you understand about your business that other companies in it just don't get?
